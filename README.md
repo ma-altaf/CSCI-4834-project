@@ -1,6 +1,7 @@
 # CSCI-4834-project
 
 Final project for CSCI 4834 (Complex Network) course.
+
 Explored Influence Maximization Models on Social Networks. 
 
 Used two of the popular methods used in that field: Independent Cascade (IC) and Linear Threshold (LT). Proposed as far as I am aware Stored Diffusion (SD), inspired by [Rainbow Table](https://en.wikipedia.org/wiki/Rainbow_table) from cyber security and [Memoization](https://en.wikipedia.org/wiki/Memoization#:~:text=In%20computing%2C%20memoization%20or%20memoisation,the%20same%20inputs%20occur%20again.), which consist of storing/caching the influence of each node thus significantly reducing the time taken to run the main influence simulation.
